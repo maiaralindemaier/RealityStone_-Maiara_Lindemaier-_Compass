@@ -119,7 +119,7 @@ describe('Calculadora') do
       expect(calculadora.dividir(5, -5)).to  eq -1
     end
     
-    it('Não calcular para a, b igual a 0')do
+    it('Não dividir para a, b igual a 0')do
       expect(calculadora.dividir(120, 0)).to include ' Não e possivel divizão por 0!' 
     end
   end     

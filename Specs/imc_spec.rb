@@ -14,5 +14,9 @@ describe('Calculo IMC') do
      altura = 0
      expect(imc(peso, altura)).to include "Não é possivel calcular o IMC para altura = 0!"
     end
+
+    it("Não deve calcular IMC para peso = 0")do
+    expect(imc(peso, altura)).to include "Não é possivel calcular o IMC para peso = 0!"
+    end
 end
 

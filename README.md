@@ -19,10 +19,15 @@ configurar ambiente e intalaçao das gems rspec e gemfile no terminal cmder
 acessar repositório remoto https://github.com/maiaralindemaier/RealityStone_-Maiara_Lindemaier-_Compass.git
 executar projeto com editor de texto vs code
 
-## Agradecimentos
+## Tecnologias utilizadas
 
 Baseado nas video aulas disponiveis na sprint 4 sobre versionamento de código, e pesquisas online.
-
+ 
+ * Editor de texto VScode
+ * CMDER
+ * GIT
+ * RUBY 
+ 
 ## AUTOR
 
 Maiara Lampert Lindemaier
